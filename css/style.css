@@ -21,3 +21,12 @@ header p {
 .booleaner{
     color: rgb(119,203,240);
 }
+
+.image-gallery{
+    max-width: 100%;
+    height: auto;
+    flex: 1 1 auto; 
+    min-width: 200px;
+
+}
+
