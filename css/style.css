@@ -1,0 +1,23 @@
+header{
+    background-image: url('../img/pattern.png');
+    background-size: 250px;
+    background-repeat: repeat;
+    width: 100%;
+    padding: 20px 0;
+    text-align: left;
+    background-color: #4EA0FF;
+}
+.logo{
+
+    width: 150px;
+}
+header h1{
+    margin: 10px 0;
+    font-size: 1.8em;
+}
+header p {
+    margin: 5px 0;
+}
+.booleaner{
+    color: rgb(119,203,240);
+}
